@@ -26,8 +26,6 @@ A collaborative project developed by a team of 4 developers using the **Agile** 
 
 ## 📈 Language Breakdown
 
-![Languages](./path-to-your-language-stats-image.png)
-
 - **C#** – 58%
 - **HTML** – 27.7%
 - **CSS** – 13.9%
